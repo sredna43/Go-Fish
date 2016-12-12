@@ -1,0 +1,11 @@
+In order for this program to run, Pygame needs to be installed for python 3.2
+
+Instructions for how to do this can be found online, and you will also need to 
+download python 3.2 because your current version is likely 3.5.2 or something
+similar. 
+
+The latest version of Go Fish is version 2.0
+
+
+
+Good luck, and have fun!
